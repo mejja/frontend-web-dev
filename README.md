@@ -1,2 +1,2 @@
 # frontend-web-dev
-Repository for frontend web development projects.
+Repository for frontend web development personal projects.
